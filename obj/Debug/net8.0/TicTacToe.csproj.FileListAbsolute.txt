@@ -1,0 +1,14 @@
+/Users/tydomben/Coding/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe
+/Users/tydomben/Coding/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/Users/tydomben/Coding/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/Users/tydomben/Coding/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/Users/tydomben/Coding/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/Users/tydomben/Coding/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydomben/Coding/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/tydomben/Coding/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/tydomben/Coding/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/tydomben/Coding/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/Users/tydomben/Coding/TicTacToe/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/Users/tydomben/Coding/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/Users/tydomben/Coding/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/Users/tydomben/Coding/TicTacToe/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
